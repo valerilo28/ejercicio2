@@ -4,10 +4,11 @@
     text-align: center;
     color: #a3c354;
     padding: 5px;
+    font-family: initial;
 }
 
 body {
-    font-family: Gill Sans MT Condensed;
+    font-family: Gill Sans MT Condensed, Arial, Helvetica;
 }
 
 .Sonambulo {
@@ -15,7 +16,6 @@ body {
  font-size: 20px;
  text-align: center;
  background-color: #636363;
- font-family: Gill Sans MT Condensed;
 }
 
 .Soy_Humbe {
