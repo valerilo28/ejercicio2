@@ -1,34 +1,55 @@
 
 .principal {
-    font-size: 60px;
-    color: #a3c354
+    font-size: 80px;
+    text-align: center;
+    color: #a3c354;
+    padding: 5px;
 }
 
-h2 {
-   font-size: 30px;
-   color:#e4eb87
+body {
+    font-family: Gill Sans MT Condensed;
 }
 
 .Sonambulo {
- color:#acabab
+ color:#acabab;
+ font-size: 20px;
+ text-align: center;
+ background-color: #636363;
+ font-family: Gill Sans MT Condensed;
 }
 
 .Soy_Humbe {
-    color: #878787
+    color: #878787;
+    font-size: 20px;
+    text-align: center;
+    background-color: #bebebe;
 }
 
 .Entropia {
-    color: #21d1d5
+    color: #21d1d5;
+    font-size: 20px;
+    text-align: center;
+    background-color: #09798b;
 }
 
 .Aurora {
-    color: #ff7ab7
+    color: #ff7ab7;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
 }
 
+
 .Escencia {
-    color: #4a9b4d
+    color: #4a9b4d;
+    font-size: 20px;
+    text-align: center;
+    background-color: #8cd761;
 }
 
 .Armagedon {
-     color: #e3360d
+     color: #e3360d;
+     font-size: 20px;
+     text-align: center;
+     background-color: #ff914e;
 }
